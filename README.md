@@ -1,4 +1,4 @@
-# Exploring the Impact of Context and Personality on Student Mood: A machine Learning Approach
+# Exploring the Impact of Context and Personality on Student Mood: A Machine Learning Approach
 
 ***Abstract*** - This study aims at understanding the relation between various factors and a
 student's mood and how their personality traits affect this relation.Data used for this study
