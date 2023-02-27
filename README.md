@@ -35,7 +35,7 @@ data along with other datasets mentioned above. The purpose was to study the moo
 respondents, what are the predictors of the mood among students with different personality types
 and how do these predictors vary between different time diaries. 
 
-## Steps Folwed in this study:
+## Steps Followed in this study:
 
 1. Data Cleaning </br>
 2. Data Pre-processing </br>
@@ -45,6 +45,8 @@ and how do these predictors vary between different time diaries.
 6. Machine Learning Models </br>
 7. Feature Importance </br>
 8. Evaluation </br>
+<br/>
+For detailed analysis please refer to the report document [published](https://github.com/KSwaviman/Social-Dynamics-Project/blob/main/Report%20l%20Social%20Dynamics%20Lab.pdf) in this repo.
 
 # Final Thoughts:
 The project aimed to understand the relationship between mood and various predictors in
