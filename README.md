@@ -46,9 +46,9 @@ and how do these predictors vary between different time diaries.
 7. Feature Importance </br>
 8. Evaluation </br>
 <br/>
-> For detailed analysis please refer to the report document [published]([https://github.com/KSwaviman/Social-Dynamics-Project/blob/main/Report%20l%20Social%20Dynamics%20Lab.pdf]) in this repo.
 
-[Google]([https://www.google.com]) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+
+For detailed analysis please refer to the report document [published](https://github.com/KSwaviman/Social-Dynamics-Project/blob/main/Report%20l%20Social%20Dynamics%20Lab.pdf) in this repo.
 
 # Final Thoughts:
 The project aimed to understand the relationship between mood and various predictors in
